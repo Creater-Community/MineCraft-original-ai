@@ -6,6 +6,11 @@ This project can be large because **we will build it with you, the community**.
 Moreover, creating an AI is **not an easy task**.
 Let's work together to create the best AI Minecraft mod!
 
+# Let's collaborate!
+I believe that this project can be done in cooperation with many different people,
+We need your help!
+Is there anyone who would like to help us together?
+
 # Q&A
 ## Q1. Can anyone make changes in this project?
 No, you cannot change it, but you can request a change.
