@@ -1,4 +1,4 @@
-![This Project Icon](Minecraft-original-ai)
+![This Project Icon](Minecraft-original-ai.png)
 
 # MineCraft-original-ai
 Let's make the best Minecraft AI mod together.
